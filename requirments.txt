@@ -1,0 +1,15 @@
+#!/bin/bash
+
+subfinder https://github.com/projectdiscovery/subfinder
+
+assetfinder https://github.com/tomnomnom/assetfinder
+
+amass https://github.com/OWASP/Amass
+
+shuffledns https://github.com/projectdiscovery/shuffledns
+
+httprobe https://github.com/tomnomnom/httprobe
+
+httpx https://github.com/projectdiscovery/httpx
+
+massdns https://github.com/blechschmidt/massdns
